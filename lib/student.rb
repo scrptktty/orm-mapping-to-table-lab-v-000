@@ -42,3 +42,6 @@ class Student
   end
 
 end
+
+class Del > Student
+end
